@@ -18,3 +18,11 @@ type.sh
 vendor/
 dist/
 tmp/
+
+# ProgramBench course-competition artifacts
+executable
+.programbench/venv/
+.programbench/gitconfig
+.programbench/home/
+.programbench/tests/
+.programbench/run/
